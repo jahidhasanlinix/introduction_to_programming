@@ -15,15 +15,37 @@ Syntax:
 
 int main()
 {
-    // Example 1: Print numbers from 0 to 9
-    for (int i =0; i < 10; i++) {
-        printf("%d \n", i);
-    }
+    // Example 1.1: Print numbers from 0 to 9
+    // for (int i =0; i < 10; i++) {
+    //     printf("%d \n", i);
+    // }
 
 
 
 
-    // Example 2: Sum of 1 to 100 (1+2+3+...+100)
+    // example 1.2: Print Springfield College for 5 times
+    // for (int i =1; i <= 5; i++) {
+    //     printf("Springfield College \n");
+    // }
+
+
+
+
+    // example 1.3: Print Springfield College for n times, and take n as input from user
+    // int n;
+    // printf("Enter a number: ");
+    // scanf("%d", &n);
+    // for (int i =0; i <= n; i++) {
+    //     printf("Springfield College \n");
+    // }
+
+
+
+
+    // Try it out
+
+
+    // Example 1.4: Sum of 1 to 100 (1+2+3+...+100)
     // int sum = 0;
     // for (int i =1; i <= 100; i++) {
     //     sum = sum + i; // sum += i;
@@ -34,7 +56,7 @@ int main()
 
 
 
-    // Example 3: Sum of even numbers from 0 to 100
+    // Example 1.5: Sum of even numbers from 0 to 100
     // int sum = 0;
     // for (int i =2; i <= 100; i=i+2) {
     //     sum = sum + i;
@@ -44,7 +66,7 @@ int main()
 
 
 
-    // Example 4: Nested for loop
+    // Example 1.6: Nested for loop
     // int i, j;
   
     // // Outer loop
@@ -60,7 +82,7 @@ int main()
 
 
 
-    // Example 5: countdown
+    // Example 1.7: countdown
     // for (int i = 10; i >= 0; i--) {
     //     printf("%d \n", i);
     // }
