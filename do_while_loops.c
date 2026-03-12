@@ -14,7 +14,7 @@ int main()
 {
     
     // example 1: while loop
-    int i = 1;
+    int i = 10;
     // while(i < 10)
     // {
     //     printf("%d\n", i);
@@ -22,10 +22,10 @@ int main()
     // }
 
     // example 2: do-while loop
-    // do {
-    //     printf("Good day \n");
-    //     i++;
-    // } while (i < 10);
+    do {
+        printf("%d\n", i);
+        i++;
+    } while (i < 10);
 
 
 

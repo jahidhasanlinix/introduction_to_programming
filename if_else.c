@@ -15,30 +15,37 @@ Syntax:
 
 int main()
 {
-    // Example 1: If statement
+    // Example 1.1: If statement
     // int number = 10;
     // if (number > 5)
     // {
     //     printf("Number is greater than 5");
     // }
 
-    // Example 1.1: Find even or odd numbers
-    int n;
-    printf("Enter a number: ");
-    scanf("%d", &n);
-    if (n % 2 == 0)
-    {
-        printf("Even number \n");
-    }
+    // Example 1.2: Take positive integer user input and find even or odd numbers
+    // int n;
+    // printf("Enter a number: ");
+    // scanf("%d", &n);
+    // if (n % 2 == 0)
+    // {
+    //     printf("Even number \n");
+    // }
+
+
+
     // if n is not even then:
     // if (n % 2 != 0)
     // {
     //     printf("Odd number \n");
     // }
+
+
     // alternate
     // else {
     //     printf("Odd number \n");
     // }
+
+
 
     // Try on your own: Take any positive integer input and check if it si divisible by 5 or not?? If yes then print "Divisible by 5" else print "Not divisible by 5"
 
@@ -46,7 +53,7 @@ int main()
 
 
 
-    // Example 2: Voting age check
+    // Example 1.3: Voting age check
     // int age;
     // printf("Enter your age: ");
     // scanf("%d", &age);
@@ -63,7 +70,7 @@ int main()
 
 
 
-    // Example 3: Voting age check with multiple conditions
+    // Example 1.4: Voting age check with multiple conditions
     // int age;
     // printf("Enter your age: ");
     // scanf("%d", &age);
@@ -88,7 +95,7 @@ int main()
 
 
 
-    // example 4: Try build a grade scoring calculator and multiple conditions using OR (II)
+    // example 1.5: Try build a grade scoring calculator and multiple conditions using OR (II)
     // int score; 
     // char grade; 
     // printf("Enter your score: ");
