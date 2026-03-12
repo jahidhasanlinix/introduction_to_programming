@@ -48,8 +48,8 @@ int main()
 
 
     // Try on your own: Take any positive integer input and check if it si divisible by 5 or not?? If yes then print "Divisible by 5" else print "Not divisible by 5"
-
-
+    // ternary operator exp1 ? exp2 : exp3
+    // n%5 == 0 ? printf("Divisible by 5") : printf("Not divisible by 5");
 
 
 
@@ -111,6 +111,20 @@ int main()
     // else if (score >= 60) grade = 'D';
     // else grade = 'F';
     // printf("Your final grade is: %c \n", grade);
+
+
+
+
+
+
+
+
+    // try it out
+    // int x =3,y=5;
+    // if(x==3)
+    //     printf("\n%d",x);
+    // else;
+    //     printf("\n%d\n",y);
 
     return 0;
 }
