@@ -23,13 +23,13 @@ int main()
     // }
 
     // Example 1.2: Take positive integer user input and find even or odd numbers
-    // int n;
-    // printf("Enter a number: ");
-    // scanf("%d", &n);
-    // if (n % 2 == 0)
-    // {
-    //     printf("Even number \n");
-    // }
+    int n;
+    printf("Enter a number: ");
+    scanf("%d", &n);
+    if (n % 2 == 0)
+    {
+        printf("Even number \n");
+    }
 
 
 
@@ -41,9 +41,9 @@ int main()
 
 
     // alternate
-    // else {
-    //     printf("Odd number \n");
-    // }
+    else {
+        printf("Odd number \n");
+    }
 
 
 
