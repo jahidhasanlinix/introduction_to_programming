@@ -1,6 +1,6 @@
-# Introduction to Programming in C
+# Introduction to Programming for Problem Solving
 
-A chapter-wise introduction to programming using the C language. Each chapter focuses on one core concept with examples you can compile and run.
+Introduction to computer programming with an emphasis on problem solving. Topics include: program structures, expressions, variables, decision and logic, iteration, collections, input and output. Program construction and testing. No prior programming experience necessary. This course is intended for Computer Science majors.
 
 ---
 
@@ -29,6 +29,16 @@ gcc if_else.c -o if_else
 ```
 
 (On Windows with MinGW/GCC: use `if_else.exe` instead of `./if_else`.)
+
+---
+
+## What You'll Learn
+
+By the end of this course, you'll be able to:
+- Write, compile, and debug C programs
+- Use conditionals to make decisions in code
+- Automate repetitive tasks with loops (for, while, do-while)
+- [More topics will be added soon]
 
 ---
 
