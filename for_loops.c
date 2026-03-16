@@ -23,20 +23,20 @@ int main()
 
 
 
-    // example 1.2: Print Springfield College for 5 times
+    // example 1.2: Print Hello world for 5 times
     // for (int i =1; i <= 5; i++) {
-    //     printf("Springfield College \n");
+    //     printf("Hello world \n");
     // }
 
 
 
 
-    // example 1.3: Print Springfield College for n times, and take n as input from user
+    // example 1.3: Print Hello world for n times, and take n as input from user
     // int n;
     // printf("Enter a number: ");
     // scanf("%d", &n);
     // for (int i =0; i <= n; i++) {
-    //     printf("Springfield College \n");
+    //     printf("Hello world \n");
     // }
 
 
